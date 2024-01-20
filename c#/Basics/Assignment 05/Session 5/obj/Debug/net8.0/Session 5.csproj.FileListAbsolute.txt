@@ -1,0 +1,14 @@
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\bin\Debug\net8.0\Session 5.exe
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\bin\Debug\net8.0\Session 5.deps.json
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\bin\Debug\net8.0\Session 5.runtimeconfig.json
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\bin\Debug\net8.0\Session 5.dll
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\bin\Debug\net8.0\Session 5.pdb
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.AssemblyInfoInputs.cache
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.AssemblyInfo.cs
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.dll
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\refint\Session 5.dll
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.pdb
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\Session 5.genruntimeconfig.cache
+D:\.net\ROUTE\02 C#\01 Basics\Session 05\Session 05\Assignment\Session 5\Session 5\obj\Debug\net8.0\ref\Session 5.dll
