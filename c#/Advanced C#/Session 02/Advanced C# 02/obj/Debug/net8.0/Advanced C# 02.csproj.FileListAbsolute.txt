@@ -1,0 +1,21 @@
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.AssemblyInfoInputs.cache
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.AssemblyInfo.cs
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\bin\Debug\net8.0\Advanced C# 02.exe
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\bin\Debug\net8.0\Advanced C# 02.deps.json
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\bin\Debug\net8.0\Advanced C# 02.runtimeconfig.json
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\bin\Debug\net8.0\Advanced C# 02.dll
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\bin\Debug\net8.0\Advanced C# 02.pdb
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.dll
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\refint\Advanced C# 02.dll
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.pdb
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.genruntimeconfig.cache
+D:\.net\ROUTE\02 C#\OOP\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\ref\Advanced C# 02.dll
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.AssemblyInfoInputs.cache
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.AssemblyInfo.cs
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.dll
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\refint\Advanced C# 02.dll
+D:\.net\ROUTE\02 C#\OOP\New folder\Advanced C# 02\Advanced C# 02\obj\Debug\net8.0\Advanced C# 02.pdb

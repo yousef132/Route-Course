@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Advanced C# 02/1.0.0": {
+        "runtime": {
+          "Advanced C# 02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advanced C# 02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
