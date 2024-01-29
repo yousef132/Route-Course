@@ -1,0 +1,14 @@
+D:\project\Practicing\Practicing\bin\Debug\net8.0\Practicing.exe
+D:\project\Practicing\Practicing\bin\Debug\net8.0\Practicing.deps.json
+D:\project\Practicing\Practicing\bin\Debug\net8.0\Practicing.runtimeconfig.json
+D:\project\Practicing\Practicing\bin\Debug\net8.0\Practicing.dll
+D:\project\Practicing\Practicing\bin\Debug\net8.0\Practicing.pdb
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.AssemblyInfoInputs.cache
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.AssemblyInfo.cs
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.csproj.CoreCompileInputs.cache
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.dll
+D:\project\Practicing\Practicing\obj\Debug\net8.0\refint\Practicing.dll
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.pdb
+D:\project\Practicing\Practicing\obj\Debug\net8.0\Practicing.genruntimeconfig.cache
+D:\project\Practicing\Practicing\obj\Debug\net8.0\ref\Practicing.dll
