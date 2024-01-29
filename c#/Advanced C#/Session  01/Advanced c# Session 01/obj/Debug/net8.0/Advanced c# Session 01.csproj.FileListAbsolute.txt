@@ -1,0 +1,28 @@
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.exe
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.deps.json
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.runtimeconfig.json
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.pdb
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.AssemblyInfoInputs.cache
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.AssemblyInfo.cs
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\refint\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.pdb
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.genruntimeconfig.cache
+D:\.net\ROUTE\02 C#\OOP\Advanced c# Session 01\Advanced c# Session 01\obj\Debug\net8.0\ref\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.exe
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.deps.json
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.runtimeconfig.json
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\bin\Debug\net8.0\Advanced c# Session 01.pdb
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.AssemblyInfoInputs.cache
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.AssemblyInfo.cs
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\refint\Advanced c# Session 01.dll
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.pdb
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\Advanced c# Session 01.genruntimeconfig.cache
+D:\.net\ROUTE\02 C#\Advanced\New folder\Session  01\Advanced c# Session 01\obj\Debug\net8.0\ref\Advanced c# Session 01.dll
