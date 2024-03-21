@@ -1,0 +1,48 @@
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 03\MVC Session 03\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 05\MVC Session 5\MVC Session 03\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 06\Session 6\MVC Session 03\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\bin\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+D:\.net\ROUTE\Ahmed Khalid\05 MVC\Session 07\Session 7\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
